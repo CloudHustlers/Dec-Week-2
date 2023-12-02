@@ -1,4 +1,5 @@
 # GSP1124
+[![](https://api.pointscounter.me/servers/img/subscribe)](https://www.youtube.com/@CloudHustlers)
 ### Run in Cloudshell
 ```cmd
 gcloud services enable securitycenter.googleapis.com
